@@ -1,5 +1,3 @@
-![banner](https://github.com/user-attachments/assets/7783775f-971e-40e5-98b0-e0cd82139cf4)
-
 # Welcome to Drivebase 🚀
 
 **Drivebase** is an open-source, cloud-agnostic file management application that allows users to seamlessly manage files across multiple cloud storage providers from a unified interface. With Drivebase, you can break free from cloud vendor lock-in and take full control of your file storage.
